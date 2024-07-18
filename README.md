@@ -4,11 +4,11 @@ Multi-pedestrian VR Simulator
 
 **Overview**
 
-MultiPed-Sim is a virtual reality simulator designed for evaluating the external communication strategies of autonomous vehicles in multi-pedestrian scenarios. This tool was developed as part of the research presented in the paper "Evaluating Autonomous Vehicle External Communication using a Multi-Pedestrian VR Simulator," published at: https://doi.org/10.1145/3678506
+MultiPed-Sim is a virtual reality simulator designed for evaluating the external communication of autonomous vehicles in multi-pedestrian scenarios. This tool was developed as part of the research presented in the paper "Evaluating Autonomous Vehicle External Communication using a Multi-Pedestrian VR Simulator," published at: https://doi.org/10.1145/3678506
 
 **Current Repository Contents**
 
-While we prepare the full Unity project for open-access release—by removing unused and licensed 3D assets—we are providing the scripts used in the simulator for educational and research purposes. These scripts are integral to the functioning of the simulator and demonstrate the methodologies used in the associated research.
+While we prepare the full Unity project for open-access release—by removing unused and licensed 3D assets—we are providing the scripts used in the simulator for research purposes. These scripts are integral to the functioning of the simulator.
 
 **Planned Updates**
 
